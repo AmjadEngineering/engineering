@@ -30,7 +30,7 @@ const About = () => {
         />
         {/* Text overlay */}
         <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-50">
-          <p className="text-white text-center max-w-lg px-4">We are professionals in manufacturing cigarette machinery parts and injection molding machinery parts.</p>
+          <p className="text-white text-center max-w-lg px-4">We are professionals in manufacturing cigarette machinery parts,injection molding machinery parts and pet series mold making.</p>
         </div>
       </div>
 
